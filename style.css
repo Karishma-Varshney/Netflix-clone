@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+.bg-image{
+    background-image: linear-gradient(to top,rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url('images/netflix-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 200px;
+}
+
+.buttons{
+    display: flex;
+    gap: 20px;
+}
+
+.dropdown select{
+    padding: 5px 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: #ccc;
+    background: transparent;
+    color: white;
+}
+
+.dropdown option{
+    color: black;
+}
+.sign-up button{
+    font-size: 15px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.headings{
+    margin-top: 15%;
+    text-align: center;
+    color: white;
+    padding: 70px 0;
+}
+
+.headings h1,h4,h4{
+    padding: 10px 0;
+}
+
+.headings h1{
+      font-size: 3rem;
+      font-weight: 700px;
+}
+
+.headings h4{
+    font-weight: 700px;
+    font-size: 20px;
+}
+
+.email{
+    width: 30vw;
+    height: 40px;
+    font-size: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 0.25rem;
+    padding-top: 1.25rem;
+    background: transparent;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.headings button{
+    width: 10vw;
+    height: 45px;
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+input[type="email"] {
+    padding-block: 1px;
+    padding-inline: 2px;
+    color: white;
+}
+
+.divider{
+    border: 5px solid #cccccc42;
+}
+
+#feature{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 30px;
+    padding: 0 30px;
+}
+.content-img{
+    display: block;
+    width: 80%;
+    margin: auto;
+    padding: auto;
+}
+
+.content h2{
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+#end-sec{
+    padding-top: 80px;
+    background-color: black;
+    color: white;
+    padding-bottom: 40px;
+}
+
+#end-sec h2{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px;
+}
+
+.questions{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 0 10rem;
+    border: none;
+    cursor: pointer;
+}
+
+.ques{
+    background: none;
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+    font-size: 30px;
+    background-color: #cccccc42;
+}
+
+.ques:hover{
+    background-color: #cccccc2f;
+}
+
+.q, .plus{
+    padding: 24px;
+}
+.plus{
+    font-size: 40px;
+}
+
+footer{
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    background-color: black;
+    color: white;
+    padding: 80px;
+}
+
+.lists{
+    display: flex;
+    gap: 8rem;
+    align-items: left;
+}
+
+.l{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.l a{
+    color: white;
+    cursor: pointer;
+}
