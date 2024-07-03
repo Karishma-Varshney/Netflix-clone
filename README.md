@@ -1,2 +1,2 @@
 Netflix Clone <br>
- Author - Karishma Varshney
+ Author -  by Karishma Varshney
