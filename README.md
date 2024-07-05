@@ -53,7 +53,7 @@ It serves as a demonstration of basic web development skills, including layout d
 
 
  - Inspired by the [Netflix Website](https://www.netflix.com/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse)
- -  Icons by [FaviconIcon](https://www.favicon.cc/)
+ -  Icons by [Flaticon](https://www.flaticon.com/)
  -  Images from [Google Images](https://images.google.com/)
 
 
