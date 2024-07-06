@@ -24,21 +24,11 @@ It serves as a demonstration of basic web development skills, including layout d
 
 **CSS3**: Stylesheet language used for describing the presentation of the webpage, including layout, colors, and fonts.
 
-## Screenshots
+## Demo
 
-![Netflix Clone Screenshots](https://i.imgur.com/qCbf2UE.png)
+You can watch the live clone website [here](https://karishma-varshney.github.io/Netflix-clone/)
 
-![Netflix Clone Screenshots](https://i.imgur.com/DYoTvt7.png)
 
-![Netflix Clone Screenshots](https://i.imgur.com/C7fjdo0.png)
-
-![Netflix Clone Screenshots](https://i.imgur.com/48uEIjj.png)
-
-![Netflix Clone Screenshots](https://i.imgur.com/GJm8JlN.png)
-
-![Netflix clone ss](https://i.imgur.com/TJ9CtpI.png)
-
-![Netflix clone ss](https://i.imgur.com/9PJx0lC.png)
 
 ## Project Structure
 
